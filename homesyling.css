@@ -1,0 +1,94 @@
+
+
+#head{
+    
+    font-size: larger;
+    font-family: cursive;
+    font-weight: bolder;
+    color:grey;
+    background-color:white;
+    justify-content: center;
+    text-align-last: center;
+    
+ 
+}
+body{
+    background-color:mintcream;
+}
+p{
+
+border-bottom-color: maroon;
+border-bottom-width: 5px;
+margin-top: 0%;
+
+}
+#logo{
+    float: left;
+    height: 10%;
+    width: 2%;
+    
+
+}
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: thistle;
+    border-style: dotted;
+}
+
+#myicon{
+    background-color: thistle;
+    width:20px;
+    height:15px
+}
+#context p{
+    background-color: navy;
+    color: white;
+    width: 100%;
+    font-family: sans-serif;
+    text-shadow: turquoise;
+    text-align: center;
+
+}
+#context a:hover{
+    color: lightsteelblue;
+}
+#context img{
+    margin-left: 15%;
+    width: 50%;
+    height: 10%;
+    margin-bottom: 5%;
+    
+}
+#facultylogin p{
+    text-align: center;
+    font-style: italic;
+    font-family: monospace;
+    font-size: 200%;
+    color:navy;
+    
+}
+#facultylogin a:hover{
+color:lightgray;
+
+}
+#faculty img{
+  margin-left: 8%;
+  width: 50%;
+  height: 10%;
+  margin-bottom: 5%;
+ 
+
+}
+#facultylogin{
+    background-color: linen;
+    
+}
+#query{
+    margin-top: 7%;
+    background-color: lightsteelblue;
+    width: 100%;
+ color: lavenderblush;
+ font-style: italic;
+ font-family: 'Courier New', Courier, monospace;
+}
