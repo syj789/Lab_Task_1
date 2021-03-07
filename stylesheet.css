@@ -1,0 +1,78 @@
+.mainh{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 30px;
+color: darkblue;
+padding-bottom: -50px;
+word-spacing: 10px;
+}
+
+.minih{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 12px;
+color: darkblue;
+word-spacing: 8px;
+
+}
+ul{
+    padding: 7px;
+    background-color:lightgrey;
+    }
+    
+li{
+        padding: 5px;
+    font-family: Calibri;
+    font-size: 16px;
+        display: inline;
+    }
+
+.background {
+   
+    background-image: url("https://www.theayres-group.com/wp-content/uploads/2016/06/kozzi-close-up_of_female_hands_on_the_laptop_keyboard-2386x1592.jpg");
+     height: 500px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    
+  }
+  .backgroundstd {
+   
+    background-image: url("https://c1.wallpaperflare.com/preview/380/596/975/book-book-pages-college-education.jpg");
+     height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    
+  }
+
+.formcontainer {
+    position: absolute;
+    right: 0;
+    margin: 20px;
+    max-width: 300px;
+    padding: 16px;
+    background-color: white;
+  }
+  
+ 
+ .inpfield{
+    width: 90%;
+    padding: 12px;
+    margin: 20px 0 20px 0;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  .submitbtn {
+    background-color: navy;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 2;
+    border-color: skyblue;
+    width: 100%;
+    
+  }
+  
+  .submitbtn:hover {
+    opacity: 0.5;
+  }
